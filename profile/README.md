@@ -14,7 +14,7 @@ We build small, focused tools for working alongside coding agents like Claude Co
 | Tool | What it does |
 | --- | --- |
 | **[Agent Cockpit](https://github.com/kaiketsu-labs/agent-cockpit)** | Every background and interactive Claude Code session in one live VS Code sidebar. Auto-naming, project and ticket folders, live status, prompt-cache countdowns and alerts when a session needs you. |
-| **[Pair Review](https://github.com/kaiketsu-labs/pair-review)** | Native VS Code review comments with automatic feedback delivery to Claude Code. Comment on a line, Claude replies in the same inline thread. |
+| **[DiffGuide](https://github.com/kaiketsu-labs/diffguide)** | Your guide through code changes. Ask Claude about any line, review PRs step by step, send feedback to your agent and decide yourself what to accept. |
 | **[Artifact Studio](https://github.com/kaiketsu-labs/artifact-studio)** | A local artifact workspace for you and your agent. Presentations, HTML, Markdown and images in one library, reviewable in their own format through a stateless MCP. |
 
 ## Principles
